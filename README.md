@@ -7,7 +7,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=menzzi)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmin3927)](https://solved.ac/minmin3927/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=https://www.acmicpc.net/user/minmin3927)](https://solved.ac/https://www.acmicpc.net/user/minmin3927/)  
 
  -->
 
