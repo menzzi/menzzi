@@ -22,9 +22,6 @@
 ![menzzi's github stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=menzzi)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmin3927)](https://solved.ac/minmin3927/)
-
  -->
 
 
