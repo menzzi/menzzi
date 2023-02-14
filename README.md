@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/rozymin_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/minmin3927" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 
-[![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=radical)
+![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmin3927)](https://solved.ac/minmin3927/)
 
 # 💪Skills
