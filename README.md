@@ -14,7 +14,7 @@
 
 ### Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Intellij IDE](https://img.shields.io/badge/#000000?style=flat-square&logo=#000000&logoColor=white)
+![IntelliJ IDE](https://img.shields.io/badge/000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <!-- [![menzzi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/menzzi)   
