@@ -1,7 +1,7 @@
 <a href="https://github.com/menzzi" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="https://www.instagram.com/rozymin_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/minmin3927" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
-<a href="https://www.notion.so/66ba0f90e5984690ae6f6c88bdd0da8d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://www.notion.so/3edce5e1cb374b06943643c896e2749e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
 ![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmin3927)](https://solved.ac/minmin3927/)
