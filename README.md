@@ -3,7 +3,7 @@
 <a href="https://blog.naver.com/minmin3927" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 <a href="https://www.notion.so/3edce5e1cb374b06943643c896e2749e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
-![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=radical)
+![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmin3927)](https://solved.ac/minmin3927/)
 
 # 💪Skills
