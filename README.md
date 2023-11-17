@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+
+github-readme-stats.vercel.app/api/top-langs/?username={menzzi}&langs_count=8
+
+
 <!-- [![menzzi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/menzzi)   
  [![menzzi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/menzzi)   
 ![menzzi's github stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true)
