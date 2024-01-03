@@ -22,10 +22,8 @@
 ![menzzi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&langs_count=8)
 
 
-<!-- [![menzzi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/menzzi)   
- [![menzzi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=menzzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/menzzi)   
-![menzzi's github stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true)
 
+![menzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=menzzi&show_icons=true&theme=panda)
 
  -->
 
