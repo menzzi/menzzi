@@ -34,8 +34,8 @@
 
 |           Title           |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-| 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub database-study](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
-| 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub database-study](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
+| 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
+| 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
 
 <br>
 
