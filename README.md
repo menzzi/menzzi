@@ -11,6 +11,9 @@
 
 // 자기소개 (추후 수정)
 
+
+<br><br>
+
 ## 💻 Tech Stack
 ### 🧑‍💻Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -23,6 +26,9 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+<br><br>
+
+
 
 ## 🚀 Study
 
@@ -33,6 +39,9 @@
 
 <br>
 
+
+
+  
 ## 🚩 Projects
 
 |           Title           |     Stack     |   Duration   |     Organization     |     Link     |
@@ -42,6 +51,8 @@
 <br>
 
 
+
+  
 ## ⌛ Studying..
 <div align="center">
 
