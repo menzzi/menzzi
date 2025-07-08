@@ -51,6 +51,11 @@
 <br>
 
 
+## 🌱 Organization
+
+<img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> 우리 FISA 5기 : 클라우드 엔지니어링 과정 `[2025.07 ~ ing]`
+
+<br>
 
   
 ## ⌛ Studying..
