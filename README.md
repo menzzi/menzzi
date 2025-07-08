@@ -26,7 +26,7 @@
 
 ## 🚀 Study
 
-|           Title           |     Stack     |   Duration   |     Organization     |     More     |
+|           Title           |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
 | 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [GitHub self-codingtest-study](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
 | 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> |  |
