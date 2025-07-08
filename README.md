@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Minji's%20GitHub%20✨&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+</div> 
 
-# ✨ Minji's GitHub ✨  
 
 </div>
 
