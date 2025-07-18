@@ -18,6 +18,13 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
+### 📊 Logging & Monitoring
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+
 ### 🔧Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -31,8 +38,9 @@
 
 |           Title           |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-| 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
-| 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
+| 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
+| 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
+
 
 <br>
 
@@ -41,7 +49,9 @@
 
 |           Title           |     Description      |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:--------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-|                           |                      |               |              |                      |              |
+| 💊 창고형 약국 시스템 | 약국 재고 관리 시스템 - bash 기반 미니 프로젝트| JAVA, Oracle | 2025.07.04 ~ 2025.07.10 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20pharmacy--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-fisa5-pharmacy-stock-project) |
+| 📊 TrendSpot | 소상공인을 위한 스마트 창업 인사이트 플랫폼 | React, Python, MySQL, Ubuntu | 2025.07.10 ~ 2025.07.14 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20trendspot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-fisa-trendspot-partition) |
+| 📦 ELK Stack 기반 카드 소비 분석 프로젝트 | ElasticSearch, Logstash, Kibana, Filebeat 실습을 중심으로 한 데이터 분석 및 디지털 금융 컨설팅 프로젝트 | ELK Stack | 2025.07.17 ~ 2025.07.18 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20data--analysis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/elk-woori-data-consume-analysis-project) |
 
 
 
