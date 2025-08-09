@@ -7,7 +7,6 @@
 <a href="https://github.com/menzzi" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="https://www.instagram.com/mindii_s/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/minmin3927" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
-<a href="https://www.notion.so/3edce5e1cb374b06943643c896e2749e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@menzzi" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </a>  
 
