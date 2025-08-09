@@ -53,10 +53,20 @@
 | 📊 TrendSpot | 소상공인을 위한<br>스마트 창업 인사이트<br>플랫폼 | React, Python, MySQL, Ubuntu | 2025.07.10 ~ 2025.07.14 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20trendspot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-fisa-trendspot-partition) |
 | 📦 ELK Stack 기반 카드 소비 분석<br> 프로젝트 | ElasticSearch, Logstash, Kibana, Filebeat <br>실습을 중심으로 한 <br>데이터 분석 및 디지털 금융 컨설팅 | ELK Stack | 2025.07.17 ~ 2025.07.18 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20data--analysis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/elk-woori-data-consume-analysis-project) |
 
-
-
 <br>
 
+## 📢 Tech Seminar
+**1. Redis를 활용한 고트래픽 대응 방안**  
+금융 서비스 환경에서 Redis 캐싱 전략을 적용해 ‘매일 이자 받기’ 기능의 성능을 개선
+고트래픽 상황에서 발생하는 DB 병목 현상을 완화하고, 안정적인 서비스 제공을 목표로 했습니다.
+
+[![Redis Caching Strategy 발표 영상](https://img.youtube.com/vi/mDGNjxhtFtU/0.jpg)](https://www.youtube.com/watch?v=mDGNjxhtFtU)
+
+- 📄 [벨로그 글 1 : 발표 내용 정리](https://velog.io/@your_id/redis-seminar-1)
+- 📄 [벨로그 글 2 : 캐싱 전략 심화 분석](https://velog.io/@your_id/redis-seminar-2)
+- 💻 [발표 자료 및 코드 GitHub Repo](https://github.com/menzzi/redis-caching-strategy)
+
+<br>
 
 ## 🌱 Organization
 
