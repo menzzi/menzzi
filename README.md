@@ -67,9 +67,9 @@
 
 [![Redis Caching Strategy 발표 영상](https://img.youtube.com/vi/mDGNjxhtFtU/0.jpg)](https://www.youtube.com/watch?v=mDGNjxhtFtU)
 
-- 📄 [벨로그 글 1 : 발표 내용 정리](https://velog.io/@your_id/redis-seminar-1)
-- 📄 [벨로그 글 2 : 캐싱 전략 심화 분석](https://velog.io/@your_id/redis-seminar-2)
-- 💻 [발표 자료 및 코드 GitHub Repo](https://github.com/menzzi/redis-caching-strategy)
+- 📄 [벨로그 글 1 : 발표 내용 정리](https://velog.io/@menzzi/%EC%9A%B0%EB%A6%AC-FIS-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-5%EA%B8%B0-1%EC%B0%A8-%EA%B8%B0%EC%88%A0%EC%84%B8%EB%AF%B8%EB%82%98-1)
+- 📄 [벨로그 글 2 : 캐싱 전략 심화 분석](https://velog.io/@menzzi/%EC%9A%B0%EB%A6%AC-FIS-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-5%EA%B8%B0-1%EC%B0%A8-%EA%B8%B0%EC%88%A0%EC%84%B8%EB%AF%B8%EB%82%98-2)
+- 💻 [발표 자료 및 코드 GitHub Repo](https://github.com/FISA-TechSeminar)
 
 <br>
 
