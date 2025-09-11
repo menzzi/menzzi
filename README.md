@@ -12,28 +12,26 @@
 
 <br><br>
 
-## 💻 Tech Stack
 
 ### 🧑‍💻 Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?style=plastic&logo=redis&logoColor=white)
 
 ### 📊 Logging & Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
-![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=plastic&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=plastic&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-000000?style=plastic&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=plastic&logo=kibana&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=plastic&logo=elastic&logoColor=white)
 
 ### 🔧 Tools
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=Eclipse%20IDE&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
 
 <br><br>
 
@@ -45,6 +43,7 @@
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
 | 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
 | 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
+| 리눅스 스터디        | Linux, Bash, Cron, AWK, Docker | 2025.09.05 ~ 2025.09.11 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue?style=plastic" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20linux--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/linux-fisa5-study.git) |
 
 
 <br>
