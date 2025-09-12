@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Minji's%20GitHub%20✨&fontSize=40&animation=fadeIn&fontColor=ffffff" />
-</div> 
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minji&animation=fadeIn&height=150&align=center)
 
 ## 👋 Hi, I'm Minji Seo!
 
@@ -37,11 +36,11 @@
 
 
 
-## 🚀 Study
+## 🚀 Labs
 
 |           Title           |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-| 코딩테스트 공부           | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
+| 코딩테스트 문제 풀이      | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
 | 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
 | 리눅스 스터디        | Linux, Bash, Cron, AWK, Docker | 2025.09.05 ~ 2025.09.11 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue?style=plastic" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20linux--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/linux-fisa5-study.git) |
 
@@ -51,11 +50,12 @@
   
 ## 🚩 Projects
 
-|           Title           |     Description      |     Stack     |   Duration   |     Organization     |     Link     |
+|           Title           | Image |   Description      |   Duration   |     Organization     |     Link   |
 |:-------------------------:|:--------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-| 💊 창고형 <br> 약국 시스템 | 약국 재고 관리 시스템 <br> - bash 기반 미니 프로젝트| JAVA, Oracle | 2025.07.04 ~ 2025.07.10 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20pharmacy--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-fisa5-pharmacy-stock-project) |
-| 📊 TrendSpot | 소상공인을 위한<br>스마트 창업 인사이트<br>플랫폼 | React, Python, MySQL, Ubuntu | 2025.07.10 ~ 2025.07.14 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20trendspot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-fisa-trendspot-partition) |
-| 📦 ELK Stack 기반 카드 소비 분석<br> 프로젝트 | ElasticSearch, Logstash, Kibana, Filebeat <br>실습을 중심으로 한 <br>데이터 분석 및 디지털 금융 컨설팅 | ELK Stack | 2025.07.17 ~ 2025.07.18 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20data--analysis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/elk-woori-data-consume-analysis-project) |
+| 🤖 DRAS  |  <img width="500" height="400" alt="스크린샷 2025-09-12 094657" src="https://github.com/user-attachments/assets/9b9e84e8-13f2-4677-bbb3-8ce95f74deb7"/>  | 데이터 마이닝을 활용한 신입 개발자를 위한 맞춤 채용공고 추천 시스템 | 2024.11 ~ 2024.12 | <img src="https://img.shields.io/badge/-아주대학교-midnightblue"/> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%202024F--DM--TEAM1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/2024F-DM-TEAM1/repositories) |
+| 💊 창고형 <br> 약국 시스템 | <img width="500" height="400" alt="스크린샷 2025-09-12 095712" src="https://github.com/user-attachments/assets/aca82f5e-db60-4f30-84e9-bbb32431404f" /> | 약국 재고 관리 시스템 <br> - bash 기반 미니 프로젝트 | 2025.07.04 ~ 2025.07.10 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20pharmacy--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/java-fisa5-pharmacy-stock-project) |
+| 📊 TrendSpot | <img width="500" height="400" alt="465151811-28ae8aa6-ab33-46b7-97b0-680146afc638" src="https://github.com/user-attachments/assets/01fa0c7b-81c3-488c-b971-0a4d735eb071" /> | 소상공인을 위한<br>스마트 창업 인사이트<br>플랫폼 | 2025.07.10 ~ 2025.07.14 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20trendspot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/mysql-fisa-trendspot-partition) |
+| 📦 ELK Stack 기반 카드 소비 분석<br> 프로젝트 | <img width="500" height="400" alt="467842019-a8c63bdf-4247-41cc-8e4e-3a0a53c33d47" src="https://github.com/user-attachments/assets/de59e7cc-1a59-4a98-9845-f537b258a15c" /> | ElasticSearch, Logstash, Kibana, Filebeat <br>실습을 중심으로 한 <br>데이터 분석 및 디지털 금융 컨설팅 | 2025.07.17 ~ 2025.07.18 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20data--analysis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menzzi/elk-woori-data-consume-analysis-project) |
 
 <br>
 
@@ -73,7 +73,7 @@
 <br>
 
 ## 🌱 Organization
-
+<img src="https://img.shields.io/badge/-아주대학교-midnightblue" /> 아주대학교 사이버보안학과 `[2021.03 ~ ing]`  
 <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> 우리 FISA 5기 : 클라우드 엔지니어링 과정 `[2025.07 ~ ing]`
 
 <br>
