@@ -46,7 +46,7 @@
 
 |           Title           |     Stack     |   Duration   |     Organization     |     Link     |
 |:-------------------------:|:-------------:|:------------:|:--------------------:|:------------:|
-| 코딩테스트 문제 풀이      | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
+| 코딩테스트 풀이      | MySQL, JAVA   | 2025.01.02 ~ | <img src="https://img.shields.io/badge/-Individual-B497BD" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20codingtest--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/java-sql-self-codingtest-study.git) |
 | 데이터베이스 스터디       | MySQL, Oracle | 2025.07.08   | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20database--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/mysql-oracle-fisa05-database-study.git) |
 | 리눅스 스터디        | Linux, Bash, Cron, AWK, Docker | 2025.09.05 ~ 2025.09.11 | <img src="https://img.shields.io/badge/-우리%20FISA%205기-blue?style=plastic" /> | [![GitHub](https://img.shields.io/badge/GitHub%20%7C%20linux--study-181717?logo=github&logoColor=white)](https://github.com/menzzi/linux-fisa5-study.git) |
 
